@@ -37,7 +37,7 @@ export default function MainPage() {
   }
   return (
     <>
-      <h1>Hlavni Stranka</h1>
+      <h1>Hlavni Stranka xd</h1>
       <Link to={"/createnews"}>
         <p>Create news</p>
       </Link>

@@ -37,7 +37,7 @@ export default function MainPage() {
   }
   return (
     <>
-      <h1>Hlavni Stranka KEKW</h1>
+      <h1 className="text-4x1 text-center"> Hlavni Stranka KEKW </h1>
       <Link to={"/createnews"}>
         <p>Create news</p>
       </Link>
